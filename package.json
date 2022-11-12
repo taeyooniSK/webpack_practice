@@ -17,7 +17,7 @@
     "image-webpack-loader": "^5.0.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.36.1",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "lodash": "^4.17.15"
